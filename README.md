@@ -38,11 +38,22 @@ My work focused on the fleet and maintenance management areas, including:
 
 This public repository presents the project for portfolio purposes.
 
-The implementation is maintained in a separate private team repository. Application credentials and database connection details are not included here.
+The original team repository remains private. A source-code snapshot is available through the download link above.
+
+Database connection credentials are not included. Running the application requires a separately configured SQL Server database.
 
 ## Team Project
 
 Developed collaboratively as part of an academic course in information systems analysis and design with artificial intelligence.
+
+## Download the Project
+
+[Download the project ZIP](https://github.com/noaabi/yachdav-management-system/releases/tag/v1.0.0)
+
+On the release page, expand **Assets** and select the attached Yachdav ZIP.
+
+The package includes source code and SQL scripts. Running the application requires Windows, the .NET 8 SDK, and a separately configured SQL Server database. Database credentials are not included.
+
 ## Screenshots
 
 ### Login Screen
